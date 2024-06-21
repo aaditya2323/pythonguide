@@ -479,6 +479,11 @@ conditions for fail
 1. if the student gets less than 40 marks in any subject then the student is fail.
 2. if the student gets less than 50% marks in total then the student is fail.
 
+```python
+print("thank you")
+```
+   
+
 
 
 
