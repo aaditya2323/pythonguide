@@ -534,5 +534,8 @@ print(emp1)
 print(repr(emp1))
 print(str(emp1))
 ```
+```python
+print("thank you")
+```
 
     
